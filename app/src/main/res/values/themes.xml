@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Invidiousa" parent="@style/Theme.AppCompat.NoActionBar" />
+</resources>
